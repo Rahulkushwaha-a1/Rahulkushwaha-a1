@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Data Science and Machine Learning projects, including data analysis, visualization, dashboards, and predictive models.<br><br>👯 I’m looking to collaborate on<br>Data Science, Machine Learning, Python, and open-source projects.<br><br>🤝 I’m looking for help with<br>Advanced Machine Learning, Deep Learning, and real-world Data Science projects.<br><br>🌱 I’m currently learning<br>Machine Learning, Deep Learning, Neural Networks, Data Analytics, and advanced Python.<br><br>💬 Ask me about<br>Python, NumPy, Pandas, Matplotlib, Seaborn, Power BI, Advanced Excel, Machine Learning, Django, Flask, Java, and Web Development.<br><br>⚡ Fun fact<br>I started with Web Development and gradually developed a strong interest in Data Science and Machine Learning.
+🔭 I’m currently working on<br>Data Science and Machine Learning projects, including data analysis, visualization, dashboards, and predictive models.<br><br>👯 I’m looking to collaborate on<br>Data Science, Machine Learning, Python, and open-source projects.<br><br>🤝 I’m looking for help with<br>Advanced Machine Learning, Deep Learning, and real-world Data Science projects.<br><br>🌱 I’m currently learning<br>Machine Learning, Deep Learning, Neural Networks, Data Analytics, and advanced Python.
 
 
 ## 🌐 Socials:
